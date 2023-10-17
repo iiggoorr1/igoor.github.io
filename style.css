@@ -6,3 +6,10 @@ body
 color:rgb(63, 52, 37);
 
 }
+div{
+    background-color: white;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 15px 20px white;
+}
