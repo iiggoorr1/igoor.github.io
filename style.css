@@ -4,7 +4,7 @@ body
     background-image:url('pobierz.png') ; 
     background-size: cover;
 color:rgb(63, 52, 37);
-
+font-size: larger;
 }
 div{
     background-color: white;
@@ -12,4 +12,13 @@ div{
     width: 500px;
     margin: auto;
     box-shadow: 3px 15px 20px white;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
