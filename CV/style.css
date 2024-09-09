@@ -1,0 +1,35 @@
+body
+
+{
+    background-image:url('wallpapersden.com_artistic-4k-space_5120x2880.jpg') ; 
+    background-size: cover;
+color:rgb(218, 215, 212);
+font-size: larger;
+}
+div{
+    background-image:url('optimized-1.gif') ;
+    background-color: white;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 15px 20px white;
+    transition: all .2s ease-in-out;
+
+}
+
+div:hover {
+    transform: scale(1.1);
+}
+p{
+    font-size: larger;
+    text-align: center;
+    text-shadow: black 6px 6px 6px;
+}
+h1{
+    text-shadow: black 5px 5px 5px;
+    font-family:monospace;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
